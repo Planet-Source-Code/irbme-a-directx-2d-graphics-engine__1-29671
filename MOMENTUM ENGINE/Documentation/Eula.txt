@@ -1,0 +1,25 @@
+----------Momentum Engine----------
+
+ Copyright 2001 (C) Christopher Waddell
+Imgonnadothingsmyway@Homail.com
+
+---------------------------------------------
+
+You can only use this project if you agree to the following conditions:
+
+	You may distribute this project as long as:
+
+		1) Everything in this folder is distributed with nothing removed, and nothing added without permission from myself.
+		2) None of the content of any files in this folder and any subfolders,  is to be changed  in any way whatsoever without permission from myself.
+		3) You do not claim this is your own project, or any parts of this project are yours  in any way. All credit has been given and if you believe that some of this code is yours and no credit has been given, then you can contact me.
+
+	You may use this for your personal use and change it as you wish as long as you do not then redistribute the changed version without permission from myself.
+
+	If you use the compiled dll in any projects other than the ones in this folder, that you wish to distribute then you must give credit to me.
+
+	If you use any parts of the code from this dll which are written by me and not from somebody else (See credits) then you must give credit to me.
+	If you use any parts of the code from this dll which are written by somebody else in the ccredits, then you must give them credit.
+
+
+End of document
+---------------------------------------------
